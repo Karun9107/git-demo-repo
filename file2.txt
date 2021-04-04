@@ -1,2 +1,3 @@
 This is some content
 Adding new feature to file2
+Final feature change
